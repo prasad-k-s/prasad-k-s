@@ -5,8 +5,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=4%2B+years+of+building+for+the+web+%F0%9F%9A%80;React+%2B+TypeScript+enthusiast+%E2%9A%9B%EF%B8%8F;Turning+coffee+into+components+%E2%98%95;Frontend+heart%2C+full-stack+ambitions+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
-
----
+<p align="center">
+  <a href="https://prasad-sankar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-prasad--sankar.vercel.app-61DAFB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ### 🧑‍💻 About Me
 
